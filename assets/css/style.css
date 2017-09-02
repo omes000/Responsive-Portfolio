@@ -303,7 +303,7 @@ aside .row .col-12 {
 		width: 100%;
 		padding: 0;
     }
-	.row2::after {
+	.row-mobile::after {
 	    content: "";
 	    clear: both;
 	    display: table;
