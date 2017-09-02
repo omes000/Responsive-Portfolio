@@ -263,6 +263,10 @@ aside .row .col-12 {
   max-width: 100%;
   height: auto;
 }
+
+.icon-style:hover {
+	opacity: .5;
+}
 .caption {
     width:100%;
     bottom: 80px;
